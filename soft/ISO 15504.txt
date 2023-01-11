@@ -1,0 +1,56 @@
+El Estándar internacional ISO/IEC 15504 denominado como Software Process Improvement Capability Determination cuya traducción al español es «Determinación de la Capacidad de Mejora del Proceso de Software», también conocido por su abreviatura SPICE nos propone un modelo para la evaluación de la capacidad en los procesos de desarrollo de productos Software.
+
+ISO/IEC 15004 SPICES se trata pues de una herramienta con los siguientes objetivos:
+
+    Proponer y desarrollar un estándar de evaluación de procesos de software.
+    Evaluar su desempeño mediante su experimentación en la industria emergente del desarrollo SW
+    Promover la transferencia de tecnología de la evaluación de procesos de software a la industria del software a nivel mundial.
+
+Es evidente que los procesos de desarrollo en una industria emergente como el Software, que continuamente aporta nuevos escenarios tecnológicos debe contar con una herramienta de evaluación de la madurez de sus procesos que continuamente este siendo evaluada por la industria de la que a su vez se nutre para crecer y aportar conocimiento al resto del panorama industrial.
+¿En qué consiste la norma ISO/IEC 15504 SPICE?
+
+La norma SPICE establece requisitos para una evaluación de procesos y los modelos de evaluación pretendiendo que estos requisitos puedan ser aplicados en cualquier modelo de evaluación en una organización.
+
+En general, los requisitos para la evaluación de procesos comprenden:
+
+    Evaluación de procesos
+    Mejora de procesos
+    Evaluación de la capacidad y/o madurez de los procesos
+
+Por otro lado en cuanto a otros aspectos como el ciclo de vida la norma SPICE también establece requisitos para la evaluación de procesos para las fases de ciclo de vida del software que se definen en la norma ISO/IEC 12207, así como requisitos para la evaluación de procesos las fases del ciclo de vida del sistema definidos en el estándar ISO/IEC 15288.
+
+En la norma SPICE también encontramos requisitos que puede ser utilizada para la evaluación de procesos relacionados con el desarrollo de servicios TIC los cuales son definidos en la norma ISO/IEC 20000
+¿Por qué es importante la norma ISO/IEC 15504?
+
+El vertiginoso crecimiento de la industria del Softwatre en los últimos tiempos hace necesario la imposición de estándares para la certificación de los procesos de desarrollo que acrediten a las empresas de cara a un mercado cada vez más internacional y competitivo.
+
+Por otro lado, los organismos oficiales imponen la necesidad de garantizar un proceso de evaluación rigurosa de la capacidad de procesos TI de sus empresas contratistas como único medio para una evaluación formal basada en la evidencias.
+
+En este escenario vemos como la administración electrónica en España exige a sus contratistas dentro del 
+“Acuerdo marco para los servicios de desarrollo de sistemas de administración electrónica” una metodología 
+basada en alguno de los siguientes modelos o certificaciones:
+
+    El modelo CMMI-DEV v.1.3 (Capability Maturity Model Integration for evelopment), en el nivel de madurez 3 o superior.
+    El modelo de Madurez de la Ingeniería del Software (Norma ISO 15504), en el nivel de madurez 3 o superior.
+
+Como conclusión podemos afirmar que una empresa del ámbito del desarrollo de sistemas informáticos que no
+cuente con algún sistema de gestión de calidad o de evaluación de sus procesos de desarrollo software tiene
+ muy difícil situarse en un mercado competitivo o concurrir a cualquier licitación pública o privada,
+Estructura de la Norma ISO 15504
+
+ISO 15504 consta de 10 partes que se han ido publicando por separado desde 2003 a 2011:
+
+    ISO 15504. Parte 1. Conceptos y vocabulario
+    ISO 15504. Parte 2. Realización de una evaluación
+    ISO 15504. Parte 2. Llevando a cabo una evaluación. Guía para la realización de la evaluación
+    ISO 15504. Parte 4. Guía sobre el uso para la mejora del proceso y la determinación de la capacidad del proceso
+    ISO 15504. Parte 5. Un ejemplo de modelo de evaluación de procesos del ciclo de vida del software (según ISO/IEC 12207)
+    ISO 15504. Parte 6. Un ejemplo de modelo de evaluación del ciclo de vida del sistema (Según ISO/IEC 15288)
+    ISO 15504. Parte 7. Evaluación de madurez organizacional
+    ISO 15504. Parte 8. Un modelo ejemplar de evaluación de procesos para la gestión de servicios de TI (Según ISO/IEC 20000)
+    ISO 15504. Parte 9. Perfiles de proceso objetivo
+    ISO 15504. Parte 10. ISO 15504. Parte 9. Extensión de seguridad
+
+ El cuerpo normativo que contiene los requisitos en realidad está formado solamente por la parte 3 y la parte 7,
+ siendo las demás partes consideradas como anexos informativos los cuales pueden ser consultados como guía para 
+implementar los requisitos considerados en su cuerpo normativo
